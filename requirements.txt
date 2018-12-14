@@ -1,4 +1,9 @@
+# python-tk is required as well. sudo apt-get install python-tk
 Cython
 EasyDict
 opencv-python
-mxnet-cu80==0.12.0b20171027
+mxnet-cu92
+pyyaml
+pillow
+matplotlib
+tqdm
